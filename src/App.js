@@ -14,7 +14,7 @@ function App() {
         <div>
         <Routes>
           <Route exact path="/getusers" element={<Usercards/>}></Route>
-          <Route exact path="/" element={<Intro/>}></Route>
+          <Route exact path="/lgmvip-getusers" element={<Intro/>}></Route>
         </Routes>
         </div>
         </div>
